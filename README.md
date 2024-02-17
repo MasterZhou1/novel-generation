@@ -7,8 +7,8 @@ Pipeline:
 ```mermaid
 graph LR
 
-A["<b style='font-size: 2em;'>Llama2</b><br/>novel outline and chapter content"] --> B["<b style='font-size: 2em;'>DALL•E-3</b><br/>picture generation"]
-B --> C["<b style='font-size: 2em;'>Pika</b><br/>short video generation"]
+A[<b style='font-size: 2em;'>Llama2</b><br/>novel outline and chapter content] --> B[<b style='font-size: 2em;'>DALL•E-3</b><br/>picture generation]
+B --> C[<b style='font-size: 2em;'>Pika</b><br/>short video generation]
 ```
 
 Description: 
